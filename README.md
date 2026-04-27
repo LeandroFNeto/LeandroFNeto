@@ -36,7 +36,7 @@ Aqui estão os principais projetos em que estou trabalhando no momento:
 
 Não fico apenas na teoria; gosto de aplicar a tecnologia para resolver problemas e compartilhar conhecimento:
 
-- 🤝 **Professor Voluntário | ONG Usina Cidadania:** Experiência ensinando [Apresetamos conceitos de program scratchjr, ensinando robotica com equipamento Legospikeprime, entre outros ferramentas que ajuda com materias como matematica e logica atraves de gamificação], o que me ajudou a desenvolver uma comunicação clara e facilidade para traduzir conceitos técnicos.
+- 🤝 **Professor Voluntário | ONG Usina Cidadania:** Experiência ensinando [Apresentamos conceitos de program scratchjr, ensinando robótica com equipamento Legospike Prime, entre outros ferramentas que ajuda com matérias como matemática e lógica através de gamificação], o que me ajudou a desenvolver uma comunicação clara e facilidade para traduzir conceitos técnicos.
 - 🏆 **Maratonas de Inovação:** Participação ativa em hackathons, desenvolvendo soluções ágeis e trabalhando em equipe sob pressão:
   - **Hackathon Agrohub**
   - **Genius Agrohackthon**
@@ -55,5 +55,17 @@ Não fico apenas na teoria; gosto de aplicar a tecnologia para resolver problema
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeandroFNeto&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroFNeto&show_icons=true&theme=radium&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFNeto&layout=compact&langs_count=7&theme=radium&hide_border=true"/>
+</div>
+
+### 📬 Como me encontrar
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/leandro-de-freitas-neto-2a267423a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="leandro.neto@discente.uenp.edu.br" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
