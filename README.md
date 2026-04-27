@@ -64,8 +64,14 @@ Não fico apenas na teoria; gosto de aplicar a tecnologia para resolver problema
 <div align="left">
   <a href="https://www.linkedin.com/in/leandro-de-freitas-neto-2a267423a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-  <a href="mailto:leandro.neto@discente.uenp.edu.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+**E-mail para contato:** `leandro.neto@discente.uenp.edu.br`
+
+**📖 O que eu faço longe do teclado (Hobbies):**
+<div align="left">
+  <a href="https://www.skoob.com.br/pt/profile/67bd1f2b70c4abc337fa21c4" target="_blank">
+    <img src="https://img.shields.io/badge/Skoob-Minhas_Leituras-%232693FF?style=for-the-badge&logo=book&logoColor=white" alt="Skoob">
   </a>
 </div>
