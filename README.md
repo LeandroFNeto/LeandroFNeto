@@ -24,7 +24,7 @@ Aqui estão os principais projetos em que estou trabalhando no momento:
 #### 🎓 [Ela Conectadas](https://github.com/projeto-elas-conectadas/App_elasconectadas.git) | *TCC*
 > *Uma plataforma desenvolvida para conectar as emrpreendedoras para possiveis parceiras, dicas ou  simplesmente compras o produtos entre elas, estou trabalhando mais no backend.*
 - **Status:** Em desenvolvimento ativo.
-- **Tecnologias:** Nodejs, Dart, Mysql, swagger.
+- **Tecnologias:** Nodejs, Flutter, Mysql, Swagger.
 
 #### ⚙️ [SaaS Multi-tenant](https://github.com/LeandroFNeto/Tech-Saas-Micro_servico.git) | *Projeto Pessoal*
 > *Uma API robusta para automação comercial, utilizando arquitetura multi-tenant. O objetivo é criar um "robozinho" altamente customizável para gestão de negócios e lazer.*
