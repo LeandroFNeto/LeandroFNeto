@@ -34,8 +34,6 @@ Aqui estão os principais projetos em que estou trabalhando no momento:
 ---
 ### Experiência e Hackathons
 
-Não fico apenas na teoria; gosto de aplicar a tecnologia para resolver problemas e compartilhar conhecimento:
-
 - **Professor Voluntário | ONG Usina Cidadania:** Experiência ensinando Experiência apresentando conceitos de programação com ScratchJr e ensinando robótica com Lego Spike Prime, além de outras ferramentas que auxiliam no aprendizado de matemática e lógica através da gamificação. Essa vivência me ajudou a desenvolver uma comunicação clara e facilidade para traduzir conceitos técnicos.
 - **Maratonas de Inovação:** Participação ativa em hackathons, desenvolvendo soluções ágeis e trabalhando em equipe sob pressão:
   - **Hackathon Agrohub**
