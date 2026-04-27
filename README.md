@@ -10,7 +10,7 @@
 
 Sou estudante de Ciência da Computação no último ano e atuo focado no desenvolvimento Back-end. Gosto de resolver problemas complexos e construir aplicações escaláveis e bem estruturadas. 
 
-Quando não estou codando, provavelmente estou na academia puxando ferro, configurando alguma automação em casa (Raspberry/Impressão 3D) ou perdido nas páginas de uma boa fantasia épica.
+
 
 -  **Foco atual:** Ecossistema Java (Spring Boot, APIs RESTful).
 -  **Aprimorando:** Arquitetura de software e bancos de dados relacionais.
