@@ -55,17 +55,17 @@ Não fico apenas na teoria; gosto de aplicar a tecnologia para resolver problema
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroFNeto&show_icons=true&theme=radium&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFNeto&layout=compact&langs_count=7&theme=radium&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeandroFNeto&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFNeto&layout=compact&langs_count=7&theme=radium&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
-### 📬 Como me encontrar
+### Como me encontrar
 
 <div align="left">
   <a href="https://www.linkedin.com/in/leandro-de-freitas-neto-2a267423a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
-  <a href="leandro.neto@discente.uenp.edu.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:leandro.neto@discente.uenp.edu.br" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
