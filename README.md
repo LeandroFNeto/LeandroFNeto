@@ -6,28 +6,27 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+###  Sobre mim
 
 Sou estudante de Ciência da Computação no último ano e atuo focado no desenvolvimento Back-end. Gosto de resolver problemas complexos e construir aplicações escaláveis e bem estruturadas. 
 
 Quando não estou codando, provavelmente estou na academia puxando ferro, configurando alguma automação em casa (Raspberry/Impressão 3D) ou perdido nas páginas de uma boa fantasia épica.
 
-- 🔭 **Foco atual:** Ecossistema Java (Spring Boot, APIs RESTful).
-- 🌱 **Aprimorando:** Arquitetura de software e bancos de dados relacionais.
-- 💬 **Pergunte-me sobre:** Java, Cosmere ou qual o melhor treino de costas!
+-  **Foco atual:** Ecossistema Java (Spring Boot, APIs RESTful).
+-  **Aprimorando:** Arquitetura de software e bancos de dados relacionais.
 
 ---
 
-### 🏛️ Hall de Entrada: O que estou construindo
+### O que estou construindo
 
 Aqui estão os principais projetos em que estou trabalhando no momento:
 
-#### 🎓 [Ela Conectadas](link-do-repositorio-aqui) | *TCC*
-> *Insira aqui uma frase de impacto sobre o que o projeto resolve. Ex: Uma plataforma desenvolvida para conectar e empoderar mulheres no setor de tecnologia, construída com [Sua Stack].*
+#### 🎓 [Ela Conectadas](https://github.com/projeto-elas-conectadas/App_elasconectadas.git) | *TCC*
+> * Uma plataforma desenvolvida para conectar as emrpreendedoras para possiveis parceiras, dicas ou  simplesmente compras o produtos entre elas, estou trabalhando mais no backend.*
 - **Status:** Em desenvolvimento ativo.
-- **Tecnologias:** Java 21, Spring Boot, PostgreSQL.
+- **Tecnologias:** Nodejs, Dart, Mysql, swagger.
 
-#### ⚙️ [SaaS Multi-tenant](link-do-repositorio-aqui) | *Projeto Pessoal*
+#### ⚙️ [SaaS Multi-tenant](https://github.com/LeandroFNeto/Tech-Saas-Micro_servico.git) | *Projeto Pessoal*
 > *Uma API robusta para automação comercial, utilizando arquitetura multi-tenant. O objetivo é criar um "robozinho" altamente customizável para gestão de negócios e lazer.*
 - **Status:** Arquitetura e modelagem.
 - **Tecnologias:** Java, Spring, Docker, PostgreSQL.
