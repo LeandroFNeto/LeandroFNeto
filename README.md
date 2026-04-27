@@ -54,11 +54,6 @@ Não fico apenas na teoria; gosto de aplicar a tecnologia para resolver problema
 
 ---
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeandroFNeto&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFNeto&layout=compact&langs_count=7&theme=radium&hide_border=true" alt="Linguagens Mais Usadas" />
-</div>
-
 ### Como me encontrar
 
 <div align="left">
