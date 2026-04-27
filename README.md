@@ -21,12 +21,12 @@ Sou estudante de Ciência da Computação no último ano e atuo focado no desenv
 
 Aqui estão os principais projetos em que estou trabalhando no momento:
 
-#### 🎓 [Ela Conectadas](https://github.com/projeto-elas-conectadas/App_elasconectadas.git) | *TCC*
+#### [Ela Conectadas](https://github.com/projeto-elas-conectadas/App_elasconectadas.git) | *TCC*
 > *Uma plataforma desenvolvida para conectar empreendedoras, facilitando possíveis parcerias, troca de dicas ou a compra e venda de produtos entre elas. Atuo com foco principal no desenvolvimento do back-end.*
 - **Status:** Em desenvolvimento ativo.
 - **Tecnologias:** Nodejs, Flutter, Mysql, Swagger.
 
-#### ⚙️ [SaaS Multi-tenant](https://github.com/LeandroFNeto/Tech-Saas-Micro_servico.git) | *Projeto Pessoal*
+#### [SaaS Multi-tenant](https://github.com/LeandroFNeto/Tech-Saas-Micro_servico.git) | *Projeto Pessoal*
 > *Uma API robusta para automação comercial, utilizando arquitetura multi-tenant. O objetivo é criar um "robozinho" altamente customizável para gestão de negócios e lazer.*
 - **Status:** Arquitetura e modelagem.
 - **Tecnologias:** Java, Spring, Docker, PostgreSQL.
@@ -36,13 +36,13 @@ Aqui estão os principais projetos em que estou trabalhando no momento:
 
 Não fico apenas na teoria; gosto de aplicar a tecnologia para resolver problemas e compartilhar conhecimento:
 
-- 🤝 **Professor Voluntário | ONG Usina Cidadania:** Experiência ensinando Experiência apresentando conceitos de programação com ScratchJr e ensinando robótica com Lego Spike Prime, além de outras ferramentas que auxiliam no aprendizado de matemática e lógica através da gamificação. Essa vivência me ajudou a desenvolver uma comunicação clara e facilidade para traduzir conceitos técnicos.
-- 🏆 **Maratonas de Inovação:** Participação ativa em hackathons, desenvolvendo soluções ágeis e trabalhando em equipe sob pressão:
+- **Professor Voluntário | ONG Usina Cidadania:** Experiência ensinando Experiência apresentando conceitos de programação com ScratchJr e ensinando robótica com Lego Spike Prime, além de outras ferramentas que auxiliam no aprendizado de matemática e lógica através da gamificação. Essa vivência me ajudou a desenvolver uma comunicação clara e facilidade para traduzir conceitos técnicos.
+- **Maratonas de Inovação:** Participação ativa em hackathons, desenvolvendo soluções ágeis e trabalhando em equipe sob pressão:
   - **Hackathon Agrohub**
   - **Genius Agrohackthon**
   - **Genius Trilha**
 
-### 🛠️ Minhas Ferramentas
+### Minhas Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
