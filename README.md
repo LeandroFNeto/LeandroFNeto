@@ -13,7 +13,7 @@ Sou estudante de Ciência da Computação no último ano e atuo focado no desenv
 
 
 -  **Foco atual:** Ecossistema Java (Spring Boot, APIs RESTful).
--  **Aprimorando:** Arquitetura de software e bancos de dados relacionais.
+-  **Aprimorando:** Arquitetura de software, bancos de dados relacionais e Inglês (focado em documentação técnica e consumo diário de literatura e mídia no idioma original para expansão de vocabulário).
 
 ---
 
@@ -22,7 +22,7 @@ Sou estudante de Ciência da Computação no último ano e atuo focado no desenv
 Aqui estão os principais projetos em que estou trabalhando no momento:
 
 #### 🎓 [Ela Conectadas](https://github.com/projeto-elas-conectadas/App_elasconectadas.git) | *TCC*
-> *Uma plataforma desenvolvida para conectar as emrpreendedoras para possiveis parceiras, dicas ou  simplesmente compras o produtos entre elas, estou trabalhando mais no backend.*
+> *Uma plataforma desenvolvida para conectar empreendedoras, facilitando possíveis parcerias, troca de dicas ou a compra e venda de produtos entre elas. Atuo com foco principal no desenvolvimento do back-end.*
 - **Status:** Em desenvolvimento ativo.
 - **Tecnologias:** Nodejs, Flutter, Mysql, Swagger.
 
@@ -36,7 +36,7 @@ Aqui estão os principais projetos em que estou trabalhando no momento:
 
 Não fico apenas na teoria; gosto de aplicar a tecnologia para resolver problemas e compartilhar conhecimento:
 
-- 🤝 **Professor Voluntário | ONG Usina Cidadania:** Experiência ensinando [Apresentamos conceitos de program scratchjr, ensinando robótica com equipamento Legospike Prime, entre outros ferramentas que ajuda com matérias como matemática e lógica através de gamificação], o que me ajudou a desenvolver uma comunicação clara e facilidade para traduzir conceitos técnicos.
+- 🤝 **Professor Voluntário | ONG Usina Cidadania:** Experiência ensinando Experiência apresentando conceitos de programação com ScratchJr e ensinando robótica com Lego Spike Prime, além de outras ferramentas que auxiliam no aprendizado de matemática e lógica através da gamificação. Essa vivência me ajudou a desenvolver uma comunicação clara e facilidade para traduzir conceitos técnicos.
 - 🏆 **Maratonas de Inovação:** Participação ativa em hackathons, desenvolvendo soluções ágeis e trabalhando em equipe sob pressão:
   - **Hackathon Agrohub**
   - **Genius Agrohackthon**
