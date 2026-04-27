@@ -22,7 +22,7 @@ Sou estudante de Ciência da Computação no último ano e atuo focado no desenv
 Aqui estão os principais projetos em que estou trabalhando no momento:
 
 #### 🎓 [Ela Conectadas](https://github.com/projeto-elas-conectadas/App_elasconectadas.git) | *TCC*
-> * Uma plataforma desenvolvida para conectar as emrpreendedoras para possiveis parceiras, dicas ou  simplesmente compras o produtos entre elas, estou trabalhando mais no backend.*
+> *Uma plataforma desenvolvida para conectar as emrpreendedoras para possiveis parceiras, dicas ou  simplesmente compras o produtos entre elas, estou trabalhando mais no backend.*
 - **Status:** Em desenvolvimento ativo.
 - **Tecnologias:** Nodejs, Dart, Mysql, swagger.
 
@@ -32,6 +32,15 @@ Aqui estão os principais projetos em que estou trabalhando no momento:
 - **Tecnologias:** Java, Spring, Docker, PostgreSQL.
 
 ---
+### Experiência e Hackathons
+
+Não fico apenas na teoria; gosto de aplicar a tecnologia para resolver problemas e compartilhar conhecimento:
+
+- 🤝 **Professor Voluntário | ONG Usina Cidadania:** Experiência ensinando [Apresetamos conceitos de program scratchjr, ensinando robotica com equipamento Legospikeprime, entre outros ferramentas que ajuda com materias como matematica e logica atraves de gamificação], o que me ajudou a desenvolver uma comunicação clara e facilidade para traduzir conceitos técnicos.
+- 🏆 **Maratonas de Inovação:** Participação ativa em hackathons, desenvolvendo soluções ágeis e trabalhando em equipe sob pressão:
+  - **Hackathon Agrohub**
+  - **Genius Agrohackthon**
+  - **Genius Trilha**
 
 ### 🛠️ Minhas Ferramentas
 
@@ -46,5 +55,5 @@ Aqui estão os principais projetos em que estou trabalhando no momento:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeandroFNeto&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
