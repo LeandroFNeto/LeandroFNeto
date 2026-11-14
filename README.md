@@ -6,14 +6,12 @@
 
 ---
 
-###  Sobre mim
+### Sobre mim
 
-Sou estudante de Ciência da Computação no último ano e atuo focado no desenvolvimento Back-end. Gosto de resolver problemas complexos e construir aplicações escaláveis e bem estruturadas. 
+Sou estudante do último ano de Ciência da Computação na UENP e atuo com foco no desenvolvimento Back-end. Gosto de resolver problemas complexos e construir aplicações escaláveis e bem estruturadas. 
 
-
-
--  **Foco atual:** Ecossistema Java (Spring Boot, APIs RESTful).
--  **Aprimorando:** Arquitetura de software, bancos de dados relacionais e Inglês (focado em documentação técnica e consumo diário de literatura e mídia no idioma original para expansão de vocabulário).
+- **Foco atual:** Ecossistema Java (Spring Boot, APIs RESTful, Spec-Driven Development).
+- **Aprimorando:** Arquitetura de software, bancos de dados relacionais e Inglês (focado em documentação técnica e consumo de mídia no idioma original para expansão de vocabulário).
 
 ---
 
@@ -22,9 +20,9 @@ Sou estudante de Ciência da Computação no último ano e atuo focado no desenv
 Aqui estão os principais projetos em que estou trabalhando no momento:
 
 #### [Ela Conectadas](https://github.com/projeto-elas-conectadas/App_elasconectadas.git) | *TCC*
-> *Uma plataforma desenvolvida para conectar empreendedoras, facilitando possíveis parcerias, troca de dicas ou a compra e venda de produtos entre elas. Atuo com foco principal no desenvolvimento do back-end.*
+> *Uma plataforma desenvolvida para conectar empreendedoras, facilitando parcerias, troca de dicas e a compra e venda de produtos entre elas. Atuo com foco principal no desenvolvimento do back-end.*
 - **Status:** Em desenvolvimento ativo.
-- **Tecnologias:** Nodejs, Flutter, Mysql, Swagger.
+- **Tecnologias:** Node.js, Flutter, MySQL, Swagger.
 
 #### [SaaS Multi-tenant](https://github.com/LeandroFNeto/Tech-Saas-Micro_servico.git) | *Projeto Pessoal*
 > *Uma API robusta para automação comercial, utilizando arquitetura multi-tenant. O objetivo é criar um "robozinho" altamente customizável para gestão de negócios e lazer.*
@@ -32,10 +30,12 @@ Aqui estão os principais projetos em que estou trabalhando no momento:
 - **Tecnologias:** Java, Spring, Docker, PostgreSQL.
 
 ---
-### Experiência e Hackathons
+### Experiência, Hackathons e Extensão
 
-- **Professor Voluntário | ONG Usina Cidadania:** Experiência ensinando Experiência apresentando conceitos de programação com ScratchJr e ensinando robótica com Lego Spike Prime, além de outras ferramentas que auxiliam no aprendizado de matemática e lógica através da gamificação. Essa vivência me ajudou a desenvolver uma comunicação clara e facilidade para traduzir conceitos técnicos.
-- **Maratonas de Inovação:** Participação ativa em hackathons, desenvolvendo soluções ágeis e trabalhando em equipe sob pressão:
+- **Professor Voluntário | ONG Usina Cidadania (Projeto Caminhar):** Atuação apresentando conceitos de programação com ScratchJr e ensinando robótica com Lego Spike Prime. Utilizo ferramentas de gamificação para facilitar o aprendizado de matemática e lógica. Essa vivência tem sido fundamental para desenvolver uma comunicação clara e a habilidade de traduzir conceitos técnicos complexos para qualquer público.
+- **Maratonas de Inovação & Competições:** Participação ativa em hackathons e eventos de tecnologia, desenvolvendo soluções ágeis e trabalhando em equipe sob forte pressão de tempo:
+  - **Hackathon Stefanini (COBOL)**
+  - **UENP RACE**
   - **Hackathon Agrohub**
   - **Genius Agrohackthon**
   - **Genius Trilha**
@@ -63,11 +63,15 @@ Aqui estão os principais projetos em que estou trabalhando no momento:
   <a href="https://www.linkedin.com/in/leandro-de-freitas-neto-2a267423a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:leandro.neto@discente.uenp.edu.br">
+    <img src="https://img.shields.io/badge/Email-leandro.neto%40discente.uenp.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
-**E-mail para contato:** `leandro.neto@discente.uenp.edu.br`
-
 **📖 O que eu faço longe do teclado (Hobbies):**
+
+Sou um leitor assíduo de alta fantasia (especialmente os universos de Brandon Sanderson) e clássicos da literatura. Fora do ambiente de software, costumo focar nos meus treinos de musculação e me aventurar na manutenção de hardware e eletrônicos.
+
 <div align="left">
   <a href="https://www.skoob.com.br/pt/profile/67bd1f2b70c4abc337fa21c4" target="_blank">
     <img src="https://img.shields.io/badge/Skoob-Minhas_Leituras-%232693FF?style=for-the-badge&logo=book&logoColor=white" alt="Skoob">
