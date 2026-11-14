@@ -8,10 +8,10 @@
 
 ### Sobre mim
 
-Sou estudante do último ano de Ciência da Computação na UENP e atuo com foco no desenvolvimento Back-end. Gosto de resolver problemas complexos e construir aplicações escaláveis e bem estruturadas. 
+Sou estudante do último ano de Ciência da Computação na UENP e atuo com foco no desenvolvimento Back-end. Gosto de resolver problemas e construir aplicações escaláveis e bem estruturadas. 
 
 - **Foco atual:** Ecossistema Java (Spring Boot, APIs RESTful, Spec-Driven Development).
-- **Aprimorando:** Arquitetura de software, bancos de dados relacionais e Inglês (focado em documentação técnica e consumo de mídia no idioma original para expansão de vocabulário).
+- **Aprimorando:** Arquitetura de software, bancos de dados e Inglês (focado em documentação técnica e consumo de mídia no idioma original para expansão de vocabulário).
 
 ---
 
@@ -27,7 +27,7 @@ Aqui estão os principais projetos em que estou trabalhando no momento:
 #### [SaaS Multi-tenant](https://github.com/LeandroFNeto/Tech-Saas-Micro_servico.git) | *Projeto Pessoal*
 > *Uma API robusta para automação comercial, utilizando arquitetura multi-tenant. O objetivo é criar um "robozinho" altamente customizável para gestão de negócios e lazer.*
 - **Status:** Arquitetura e modelagem.
-- **Tecnologias:** Java, Spring, Docker, PostgreSQL.
+- **Tecnologias:** Java, Spring, Docker, PostgreSQL, Openspec, Swagger.
 
 ---
 ### Experiência, Hackathons e Extensão
